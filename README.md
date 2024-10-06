@@ -32,9 +32,8 @@ Apache-2.0 license
 
 # Support
 Contact me at :- 
-1. LinkedIn Account : www.linkedin.com/in/rayyan-ashraf-71117b249
-2. Instagram Account : @etsrayy
-3. Email At : ryshashraf@gmail.com
+1. LinkedIn Account : www.linkedin.com/in/ishika-yadav-86839127a
+2. Email At : ishikaa.connect@gmail.com
 
 # Changelog
 1. Currently working on 3rd point of Contributing section.
@@ -43,5 +42,5 @@ Contact me at :-
 This program is currently compiling with zero error, so you are good to go with it, Thank You
 
 # Profile
-1. Name : Rayyan Ashraf
+1. Name : Ishika Yadav
 2. Designation :  Student of B-Tech Computer Science Engineering (1st Year)
