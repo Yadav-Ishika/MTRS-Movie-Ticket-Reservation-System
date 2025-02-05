@@ -43,4 +43,4 @@ This program is currently compiling with zero error, so you are good to go with 
 
 # Profile
 1. Name : Ishika Yadav
-2. Designation :  Student of B-Tech Computer Science Engineering (1st Year)
+2. Designation :  Student of B-Tech Computer Science Engineering (3rd Year)
