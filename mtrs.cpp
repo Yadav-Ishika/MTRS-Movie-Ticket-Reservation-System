@@ -10372,7 +10372,7 @@ void fare_printTicket(int tic_seatNum[], int tic_nOs, long long tic_phNo) {
             cout<<"       \t\t\t\t\t\t_______________________________________________________________\n\n";
             cout<<"       \t\t\t\t\t\t----------------------------------------------------------------\n\n";
             Sleep(900);
-        }
+        } 
     Sleep(1500);
     cout<<"\n\nCongratulations ! Your Ticket Has Been Updated Successfully."<<endl;
     Sleep(1500);
