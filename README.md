@@ -14,7 +14,7 @@ This program is built using C++ Programming Language and Few Concepts of Object 
 
 # Usage
 ### Compile the mtrs.cpp file and execute it
-1. Command I Used : Compilation -> g++ mtrs.cpp
+1. Command I Used : Compilation -> g++ mtrs.cpp 
 2. Command I Used : Execution -> ./a.exe
 
 # Features
